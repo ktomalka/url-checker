@@ -1,0 +1,21 @@
+{
+  "name": "url-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktomalka/url-checker.git"
+  },
+  "keywords": [],
+  "author": "Kamil Tomalka (https://tomalka.dev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktomalka/url-checker/issues"
+  },
+  "homepage": "https://github.com/ktomalka/url-checker#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0"
+  }
+}
